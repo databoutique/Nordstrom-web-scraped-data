@@ -1,0 +1,14 @@
+# Nordstrom web scraped data 
+
+## About the website
+
+[Nordstrom](https://www.nordstrom.com/), launched in 1901, is an American luxury department store brand, originally founded as a shoe store in Seattle. Today, Nordstrom operates 100 stores across the United States, and has a significant online presence. Consistently, Nordstrom is recognized for its commitment to customer service and its wide range of high-quality products from top brands. The company went public in 1971 with an [initial public offering](https://www.investopedia.com/terms/i/ipo.asp) (IPO) on the NASDAQ, under the [stock symbol JWN](https://www.bloomberg.com/quote/JWN:US). Further details about the companys history, financials and operations can be found on the [Nordstrom Wikipedia Page](https://en.wikipedia.org/wiki/Nordstrom) and the [Nordstrom page on Bloomberg](https://www.bloomberg.com/profile/company/JWN:US).  
+
+Some of Nordstroms main competitors in the high-end retail space include [Neiman Marcus](https://www.neimanmarcus.com/), [Saks Fifth Avenue](https://www.saksfifthavenue.com/), and [Macys](https://www.macys.com/). All of these businesses operate both physical stores and comprehensive online shopping platforms, providing a diverse range of luxury and high-end products. Similar to Nordstrom, all three competitors also lay significant emphasis on their customer service. For comprehensive business overviews and financial information on these competitors, refer to the [Neiman Marcus Wikipedia page](https://en.wikipedia.org/wiki/Neiman_Marcus), [Saks Fifth Avenue Wikipedia page](https://en.wikipedia.org/wiki/Saks_Fifth_Avenue), [Macys Wikipedia page](https://en.wikipedia.org/wiki/Macys), [Neiman Marcus Bloomberg page](https://www.bloomberg.com/profile/company/NMG:US), [Saks Fifth Avenue Bloomberg page](https://www.bloomberg.com/profile/company/SKS:US), and [Macys Bloomberg page](https://www.bloomberg.com/profile/company/M:US).
+
+In terms of practical applications of web scraped data from Nordstroms website, it primarily helps in competitive analysis and pricing strategies. As Nordstrom operates in the competitive high-end retail market, it could significantly benefit from data about its competitors’ prices, discounts, and product selections. This data allows Nordstrom to adjust its pricing strategies accordingly, ensuring it remains competitive. Additionally, web scraped data can help the company to understand market trends and changes in consumer preference, driving strategic procurement and inventory management decisions. Using this data, the company can better predict demand for certain products, manage stock levels more effectively, and prioritize products that provide the best return on investment.
+
+
+## Link to **dataset**
+
+[Nordstrom dataset](https://www.databoutique.com/buy-data-list-subset/Nordstrom%20web%20scraped%20data/r/rec5VGQwbxk9SwLj7)
